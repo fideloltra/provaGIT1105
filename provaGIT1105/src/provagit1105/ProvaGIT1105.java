@@ -19,6 +19,7 @@ public class ProvaGIT1105 {
         // TODO code application logic here
         System.out.println("==================");
         System.out.println("BENVINGUT A LA MEUA PÀGINA WEB");
+        System.out.println("IES SAN VICENT FERRER 2017");
     }
     
 }
